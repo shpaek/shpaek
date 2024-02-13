@@ -6,7 +6,7 @@ I primarily focus on Java backend development and am also proficient in full-sta
 <br>
 I also possess a foundational knowledge of data engineering.
 
-I enjoy ballet 🩰, jogging 🏃‍♀️, and cafe ☕!
+I love ballet 🩰, jogging 🏃‍♀️, and cafe ☕!
 <br>
 I have a strong desire to learn all aspects of programming. 🔥
 

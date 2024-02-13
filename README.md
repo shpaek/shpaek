@@ -33,7 +33,7 @@ I'm currently focusing on enhancing my skills in:
 
 ## 📫 Let's Connect
 
-- [<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">](shpaek@gmail.com)
+- [<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">](matilto:shpaek@gmail.com)
 - ✨ [Seohyeon's Portfolio](https://www.notion.so/ffecba8deff3432fac8882bdf2c63fb7?pvs=4)
 
 Feel free to reach out, and let's connect!

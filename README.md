@@ -1,4 +1,4 @@
-# Hi there! 👋
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi👋%20I'm%20Seohyeon%20Paek)
 
 I'm Seohyeon Paek, a passionate software developer from South Korea. 👩‍🚀
 <br>
